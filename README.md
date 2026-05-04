@@ -8,7 +8,7 @@ In the project directory, you can run:
 
 ### `npm run tailwind`
 
-Runs the live server in http://127.0.0.1:5500/build/index.html
+Runs the live server in http://127.0.0.1:5500
 
 ### `npm run prettier`
 
